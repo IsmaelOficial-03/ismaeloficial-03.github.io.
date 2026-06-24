@@ -4,4 +4,7 @@ div {
 }
 doby {
   color: black;
+  text-align: center;
+  width: 250px;
+  height: 300px;
 }
